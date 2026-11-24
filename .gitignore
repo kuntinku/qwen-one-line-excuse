@@ -1,1 +1,8 @@
 node_modules/
+proxy.py
+proxy2.py
+capture-body.json
+system-prompt-capture.json
+system-prompt.txt
+prompt.txt
+transcripts.tar.gz
